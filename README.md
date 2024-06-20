@@ -14,5 +14,6 @@ la autorización, lo que nos permitirá poder ejecutar las pruebas posterioes de
 , README.md, y .gitignore (en éste archivo se colocan los archivo s que queremos que Git ignore, 
 bien sea por seguridad o porque no sean necesarios).
 
+- Necesitas tener instalado Python, ya que el código está realizado en este lenguaje de programación.
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
